@@ -20,4 +20,4 @@ The game serves as a pedagogical tool to help students explore biodiversity and 
 This project was part of a collaboration between **UTFPR - Ponta Grossa** and **ASSARTE** to promote digital literacy and environmental awareness within the community. It demonstrates the use of software engineering to solve real-world social and educational challenges.
 
 ---
-*Developed by [Your Name] in partnership with ASSARTE & UTFPR.*
+*Developed by Gabriel Castello in partnership with ASSARTE & UTFPR.*
