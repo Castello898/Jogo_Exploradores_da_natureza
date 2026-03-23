@@ -1,23 +1,20 @@
 # Exploradores da Natureza
-**Inclusive Educational Gaming for Specialized Learning**
+**Inclusive Educational Game developed in GameMaker Studio 2**
 
 ## 📌 Project Overview
-Exploradores da Natureza is an interactive educational game developed during my tenure at the Federal University of Technology - Paraná (UTFPR). The project was created specifically for **ASSARTE** (Associação Artesanal do Excepcional), an institution dedicated to supporting individuals with intellectual and multiple disabilities.
+Exploradores da Natureza is an interactive educational tool developed during my time at the Federal University of Technology - Paraná (UTFPR). It was created for **ASSARTE** (Associação Artesanal do Excepcional), an institution supporting individuals with intellectual disabilities.
 
-The game serves as a pedagogical tool to help students explore biodiversity and environmental themes through a simplified, engaging digital interface tailored for special education needs.
+The project focuses on accessibility, using gamification to teach environmental themes and biodiversity in a way that is engaging for students with specialized learning needs.
 
 ## 🛠️ Technical Stack
-* **Languages:** Lua / Python (Primary Development)
-* **Focus:** Inclusive Design & Accessibility
-* **Environment:** Cross-platform support for Linux (Mint) and Windows 11.
+* **Engine:** GameMaker Studio 2 (GMS2)
+* **Language:** GML (GameMaker Language)
+* **Focus:** Accessible UI/UX & Inclusive Design
 
-## 🚀 Key Features & Accessibility
-* **Simplified Navigation:** Designed for users with varying levels of motor and cognitive skills.
-* **Visual Learning:** Heavy emphasis on environmental imagery to facilitate recognition of nature-based concepts.
-* **Collaborative Design:** Developed in alignment with ASSARTE’s mission to provide therapeutic and educational support for people with intellectual disabilities.
+## 🚀 Key Features
+* **Specialized UX:** Tailored for users with cognitive and motor disabilities, following ASSARTE’s pedagogical goals.
+* **Visual Storytelling:** Environmental education through interactive scenes and asset-heavy feedback.
+* **Fully voiced:** Audio-narrated Menus and explanations to aid those with impedments.
 
-## 🎓 Institutional Context
-This project was part of a collaboration between **UTFPR - Ponta Grossa** and **ASSARTE** to promote digital literacy and environmental awareness within the community. It demonstrates the use of software engineering to solve real-world social and educational challenges.
-
----
-*Developed by Gabriel Castello in partnership with ASSARTE & UTFPR.*
+## 🎓 Academic & Social Impact
+Developed as a community outreach project at **UTFPR - Ponta Grossa**, this game bridges the gap between software development and social responsibility by providing ASSARTE with a dedicated digital learning tool.
